@@ -26,6 +26,11 @@
 
 <br>
 
+## 🌐 Portfolio
+
+🔗 **Live Portfolio:** [your-portfolio-link.com](https://your-portfolio-link.com) <!-- replace with your actual link -->
+
+<br>
 
 ## 🚀 Featured Projects
 
@@ -75,7 +80,14 @@ An AI-powered customer support chatbot built with modern web technologies for fa
 </td>
 <td width="50%" valign="top">
 
+### ➕ My Next Project
+Got something new in the pipeline? Drop it here to keep this section growing.
 
+</td>
+</tr>
+</table>
+
+<br>
 
 ## 💻 Tech Stack
 
@@ -109,6 +121,13 @@ An AI-powered customer support chatbot built with modern web technologies for fa
 
 <br>
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shuvam-cmd&theme=tokyonight&row=1&column=7&margin-w=8" />
+</p>
+
+<br>
 
 ## 📊 Contribution Graph
 
@@ -123,7 +142,7 @@ An AI-powered customer support chatbot built with modern web technologies for fa
 <p align="center">
   <a href="https://www.linkedin.com/in/shuvam-kumar-das-664181305/">LinkedIn</a> •
   <a href="https://github.com/Shuvam-cmd">GitHub</a> •
-  <a href="mailto:das750239@example.com">Email</a> •
+  <a href="mailto:das750239@gmail.com">Email</a> •
   <a href="https://leetcode.com/u/ShuvamDas1_2SH/">LeetCode</a> •
   <a href="https://www.geeksforgeeks.org/profile/das75yg7w">GeeksforGeeks</a>
 </p>
