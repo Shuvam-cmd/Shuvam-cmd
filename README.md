@@ -1,176 +1,154 @@
-<h1 align="center">Hi 👋, I'm Shuvam Kumar Das</h1>
+<h1 align="center">Hi there, I'm Shuvam Kumar Das 👋</h1>
 <h3 align="center">Full Stack MERN Developer | DSA Enthusiast | Open Source Learner</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;500%2B+DSA+Problems+Solved;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=25&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;500%2B+DSA+Problems+Solved;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://leetcode.com/YOUR_LEETCODE/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
+  <a href="https://www.geeksforgeeks.org/user/YOUR_GFG/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></a>
+</p>
+
+<br>
 
 ## 🚀 About Me
 
-- 🎓 B.Tech Information Technology Student
+- 🎓 B.Tech in Information Technology
 - 💻 Full Stack MERN Developer
-- 🧠 Solved **500+ DSA Problems**
-- 🌱 Currently learning **System Design & GenAI**
-- 🚀 Passionate about building scalable web applications
-- 🎯 Goal: Software Engineer at a Product-Based Company
+- 🧠 Solved **500+ DSA problems** across major platforms
+- 🌱 Currently leveling up in **System Design** & **Generative AI**
+- 🏗️ Building scalable, production-ready web applications
+- 🎯 Goal: Software Engineer at a top product-based company
+- ⚡ Fun fact: I'd rather debug a tricky recursion bug than skip my morning coffee
 
----
+<br>
 
 ## 🌐 Portfolio
 
-🔗 **Live Portfolio:** *(Add your latest portfolio link here)*
+🔗 **Live Portfolio:** [your-portfolio-link.com](https://your-portfolio-link.com) <!-- replace with your actual link -->
 
----
+<br>
 
 ## 🚀 Featured Projects
 
-### 🏘 Community Hero
-A full-stack civic issue reporting platform.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Tech Stack**
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- JWT Authentication
-- Cloudinary
+### 🏘️ Community Hero
+A full-stack civic issue reporting platform that lets citizens report and track local issues in real time.
 
-⭐ Features
-- User Authentication
-- Report Issues
-- Image Upload
-- Dashboard
-- Status Tracking
-- Responsive Design
+**Tech Stack:** React.js · Node.js · Express.js · MongoDB · JWT Auth · Cloudinary
 
----
+**Key Features**
+- 🔐 User authentication & authorization
+- 📍 Report civic issues with location tagging
+- 🖼️ Image upload via Cloudinary
+- 📊 Admin dashboard with status tracking
+- 📱 Fully responsive design
+
+</td>
+<td width="50%" valign="top">
 
 ### 📊 AlgoVision
+An interactive DSA visualizer built with React, designed to make algorithms easier to understand and learn.
 
-Interactive DSA Visualizer built using React.
+**Key Features**
+- 🔄 Sorting algorithm visualizer
+- 🔍 Searching algorithm visualizer
+- 🌐 Graph algorithm visualizations
+- 🌳 Tree traversal animations
+- 🧩 Dynamic programming walkthroughs
+- ⏱️ Time & space complexity analysis
 
-Features
-
-- Sorting Visualizer
-- Searching Visualizer
-- Graph Algorithms
-- Tree Traversals
-- Dynamic Programming
-- Complexity Analysis
-
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🤖 AI Support Chatbot
+An AI-powered customer support chatbot built with modern web technologies for fast, natural conversations.
 
-AI-powered chatbot using modern web technologies.
+**Key Features**
+- 💬 Real-time AI-driven chat
+- 🎨 Clean, responsive UI
+- ⚡ Optimized for fast response times
 
-Features
+</td>
+<td width="50%" valign="top">
 
-- AI Chat
-- Responsive UI
-- Fast Performance
-- Clean Design
+### ➕ Your Next Project
+Got something new in the pipeline? Drop it here to keep this section growing.
 
----
+</td>
+</tr>
+</table>
 
-# 💻 Tech Stack
+<br>
 
-### Languages
+## 💻 Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,js" />
-</p>
+**Languages**
+<p><img src="https://skillicons.dev/icons?i=cpp,js,ts" /></p>
 
-### Frontend
+**Frontend**
+<p><img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite" /></p>
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite" />
-</p>
+**Backend**
+<p><img src="https://skillicons.dev/icons?i=nodejs,express" /></p>
 
-### Backend
+**Database**
+<p><img src="https://skillicons.dev/icons?i=mongodb,mysql" /></p>
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+**Tools & Platforms**
+<p><img src="https://skillicons.dev/icons?i=git,github,vscode,postman" /></p>
 
-### Database
+<br>
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
-
----
-
-# 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shuvam-cmd&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shuvam-cmd&layout=compact&theme=tokyonight"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shuvam-cmd&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shuvam-cmd&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shuvam-cmd&theme=tokyonight"/>
-
+  <img src="https://streak-stats.demolab.com/?user=Shuvam-cmd&theme=tokyonight&hide_border=true" />
 </p>
 
----
+<br>
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Shuvam-cmd&theme=tokyonight&row=1&column=7"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Shuvam-cmd&theme=tokyonight&row=1&column=7&margin-w=8" />
 </p>
 
----
+<br>
 
-# 📊 Contribution Graph
+## 📊 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shuvam-cmd&theme=tokyo-night"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shuvam-cmd&theme=tokyo-night" />
 </p>
 
----
+<br>
 
-# 📫 Connect With Me
-
-<p>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •
-<a href="https://github.com/Shuvam-cmd">GitHub</a> •
-<a href="mailto:YOUR_EMAIL">Email</a> •
-<a href="https://leetcode.com/">LeetCode</a> •
-<a href="https://www.geeksforgeeks.org/">GeeksforGeeks</a>
-
-</p>
-
----
+## 📫 Connect With Me
 
 <p align="center">
-
-![](https://komarev.com/ghpvc/?username=Shuvam-cmd&color=blue)
-
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">LinkedIn</a> •
+  <a href="https://github.com/Shuvam-cmd">GitHub</a> •
+  <a href="mailto:YOUR_EMAIL@example.com">Email</a> •
+  <a href="https://leetcode.com/YOUR_LEETCODE/">LeetCode</a> •
+  <a href="https://www.geeksforgeeks.org/user/YOUR_GFG/">GeeksforGeeks</a>
 </p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shuvam-cmd&color=blue&style=flat" alt="Profile views" />
+</p>
 
-<h3 align="center">
-
-⭐ Thanks for visiting my profile ⭐
-
-</h3>
+<h3 align="center">⭐ Thanks for visiting my profile — let's build something great! ⭐</h3>
