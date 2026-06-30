@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://leetcode.com/YOUR_LEETCODE/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
-  <a href="https://www.geeksforgeeks.org/user/YOUR_GFG/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/shuvam-kumar-das-664181305/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:das750239@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://leetcode.com/u/ShuvamDas1_2SH/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
+  <a href="https://www.geeksforgeeks.org/profile/das75yg7w"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></a>
 </p>
 
 <br>
@@ -26,11 +26,6 @@
 
 <br>
 
-## 🌐 Portfolio
-
-🔗 **Live Portfolio:** [your-portfolio-link.com](https://your-portfolio-link.com) <!-- replace with your actual link -->
-
-<br>
 
 ## 🚀 Featured Projects
 
@@ -80,14 +75,7 @@ An AI-powered customer support chatbot built with modern web technologies for fa
 </td>
 <td width="50%" valign="top">
 
-### ➕ Your Next Project
-Got something new in the pipeline? Drop it here to keep this section growing.
 
-</td>
-</tr>
-</table>
-
-<br>
 
 ## 💻 Tech Stack
 
@@ -121,13 +109,6 @@ Got something new in the pipeline? Drop it here to keep this section growing.
 
 <br>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shuvam-cmd&theme=tokyonight&row=1&column=7&margin-w=8" />
-</p>
-
-<br>
 
 ## 📊 Contribution Graph
 
@@ -140,11 +121,11 @@ Got something new in the pipeline? Drop it here to keep this section growing.
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/shuvam-kumar-das-664181305/">LinkedIn</a> •
   <a href="https://github.com/Shuvam-cmd">GitHub</a> •
-  <a href="mailto:YOUR_EMAIL@example.com">Email</a> •
-  <a href="https://leetcode.com/YOUR_LEETCODE/">LeetCode</a> •
-  <a href="https://www.geeksforgeeks.org/user/YOUR_GFG/">GeeksforGeeks</a>
+  <a href="mailto:das750239@example.com">Email</a> •
+  <a href="https://leetcode.com/u/ShuvamDas1_2SH/">LeetCode</a> •
+  <a href="https://www.geeksforgeeks.org/profile/das75yg7w">GeeksforGeeks</a>
 </p>
 
 <p align="center">
